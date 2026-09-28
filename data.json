@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest \u2014 2026-09-27",
   "date": "2026-09-27",
   "timezone": "Europe/Rome",
-  "updated": "2026-09-28T11:16:56+0200",
+  "updated": "2026-09-28T11:16:56+02:00",
   "brand_title": "EL3M88 X Virality Score",
   "brand_handle": "@el3m889",
   "hits": [
@@ -578,6 +578,16 @@
     "x_score": 43,
     "total_hit_views": 133692,
     "x_score_formula": "min(99, max(1, round(20 * log10(total_hit_views/1000))))",
-    "note": "Twiscan profile mirrors had no 2026-09-27 statuses (stale); day originals confirmed via X read-only UserTweets + fxtwitter."
+    "note": "Twiscan profile mirrors had no 2026-09-27 statuses (stale); day originals confirmed via X read-only UserTweets + fxtwitter.",
+    "failed_twiscan": [
+      "KrebsOnSecurity",
+      "SwiftOnSecurity",
+      "GossiTheDog",
+      "MalwareJake",
+      "DarkReading"
+    ],
+    "recovered_via_x_api": [
+      "SwiftOnSecurity"
+    ]
   }
 }
